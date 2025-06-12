@@ -1,7 +1,10 @@
 import subprocess
 
+# TikTok video link
 url = 'https://www.tiktok.com/@username/video/video_number'
 
+
+# Command that actually downloads the audio file of the video and saves it in the mp3 file
 command = [
     "yt-dlp",
     "--user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -14,4 +17,9 @@ command = [
     url
 ]
 
-subprocess.run(command)
+
+# Simple error handling to void breaks,
+try:
+    subprocess.run(command)
+except Exception as e:
+    print(e)
