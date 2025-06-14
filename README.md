@@ -53,7 +53,7 @@
 </tr>
 </table>
 
-### 🏆 **Why Choose This Toolkit?**
+### 📂 **What's Inside this Toolkit?**
 - **3 Specialized Scripts** - Each optimized for specific download scenarios
 - **Industry-Standard yt-dlp** - Professional-grade downloading engine
 - **Smart Browser Emulation** - Advanced anti-detection technology
@@ -537,18 +537,12 @@ This project is for **educational purposes only**. Please respect TikTok's Terms
 
 ---
 
-## ⭐ Acknowledgments
-
-- **yt-dlp team** for the exceptional downloading engine
-- **TikTok developer community** for format insights
-- **Python community** for robust libraries and tools
-
----
-
 <div align="center">
 
 ## 👨‍💻 Author
 
 Developed by **GhostKX**
 
-🌐 **GitHub**: [@GhostKX](https://github.com/GhostKX)
+[![GitHub](https://img.shields.io/badge/GitHub-@GhostKX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostKX)
+
+</div>
