@@ -1,4 +1,4 @@
-# 🎭 TikTok Video Downloader
+# <a href="https://tiktok.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ionicons_logo-tiktok.svg" width="28" valign="middle"/></a> TikTok Video Downloader 🎭 
 
 <div align="center">
 
