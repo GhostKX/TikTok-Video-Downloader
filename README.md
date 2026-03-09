@@ -1,12 +1,14 @@
-# <a href="https://tiktok.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ionicons_logo-tiktok.svg" width="28" valign="middle"/></a> TikTok Video Downloader 🎭 
-
 <div align="center">
 
-[![TikTok Downloader](https://img.shields.io/badge/TikTok-Downloader-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](https://creativecommons.org/licenses/by-nd/4.0/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/GhostKX/TikTok-Video-Downloader)
+# <a href="https://tiktok.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ionicons_logo-tiktok.svg" width="45" valign="middle"/></a> TikTok Video Downloader 🎭
+
+[![TikTok Downloader](https://img.shields.io/badge/TikTok-Downloader-69C9D0?colorB=EE1D52&labelColor=000000)](https://www.tiktok.com)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB)](https://www.python.org)
+[![Dependencies: yt-dlp](https://img.shields.io/badge/yt--dlp-2026.3.3-1E90FF)](https://github.com/yt-dlp/yt-dlp)
+[![Dependencies: subprocess](https://img.shields.io/badge/subprocess-Built--in-8A2BE2)](https://docs.python.org/3/library/subprocess.html)
+[![Status](https://img.shields.io/badge/Status-Active-4CAF50)](https://github.com/GhostKX/TikTok-Video-Downloader)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/License-Educational-green)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 **Professional-Grade TikTok Content Downloading Toolkit**
 
